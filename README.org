@@ -1,0 +1,116 @@
+* A Sex and Gender Resource Directory
+
+A [[https://github.com/GregDavidson/loel/blob/main/Devel/loel-lists.org][Resource Directory]] of /LOEL/, the [[https://github.com/GregDavidson/loel#readme][League of Extraordinary Learners]].
+
+** Sex
+
+** Gender
+
+*** Kate Bornstein
+
+- [[http://katebornstein.com/blog][Kate Bornstein's Blog]]
+
+- book title :: Gender Outlaw
+- subtitle :: On Men, Women and the Rest of Us
+- quote :: I know I’m not a man ... and I’ve come to the conclusion
+  that I’m probably not a woman, either. .... The trouble is, we’re
+  living in a world that insists we be one or the other.
+
+- book title :: My New Gender Workbook
+- subtitle :: A Step-by-Step Guide to Achieving World Peace Through
+  Gender Anarchy and Sex Positivity
+- edition :: 2nd
+
+** Relationship Structures
+
+*** Ethical Non-Monogamy
+
+**** Books
+
+- title :: The Ethical Slut
+- authors :: Dossie Easton and Janet W. Hardy
+
+- title ::  Polyamory: The New Love Without Limits
+- subtitle :: Secrets of Sustainable Intimate Relationships
+- author :: Deborah Anapol
+
+- title :: More Than Two
+- subtitle :: A Practical Guide to Ethical Polyamory/
+- author :: Eve Rickert
+
+**** Websites
+
+- [[https://www.lovingmorenonprofit.org][Loving More Nonprofit]]
+#+begin_comment
+Website Issues:
+- Context: Using Firefox 125
+- No Search Area appears so Q button fails
+- Contact-Us
+  - doesn't provide a field for any message
+  - no email sent in response to registration
+  - phone number field doesn't accept dashes
+- Some FAQ links fail
+  - OK: https://www.lovingmorenonprofit.org/home/polyamory/faq/
+- NOT SO GOOD:
+    - https://www.lovingmorenonprofit.org/home/polyamory/faq-3/
+    - Empty Boxes appear instead of intended content
+Website Suggestions:
+- FAQ sexual orientation is weird
+  - Entry for Bisexual but no entries for Heterosexual or Homosexual
+  - Entry for Bisexual is weird
+    - Only the second meaning is for a Bisexual Orientation
+  - Nothing in the FAQ suggests any spectrum (Kinsey, etc.) or fluidity in Sexual Orientation
+
+Contact Information
+- Mailing Address:
+#+begin_example
+Loving More® Nonprofit
+a 501(c)(3) nonprofit organization
+PO Box 1658
+Loveland, CO 80539
+#+end_example
+- Phone:: 970-MOR-LOVE     (970-667-5683)
+#+end_comment
+
+** Websites
+
+- [[https://genetic.org][The Association for X and Y Chromosome Variations]]
+- [[https://en.wikipedia.org/wiki/Human_chimera][Human Chimeras]]
+- [[https://en.wikipedia.org/wiki/Androgen_insensitivity_syndrome][Androgen Insensitivity]]
+- [[https://en.wikipedia.org/wiki/Complete_androgen_insensitivity_syndrome][Complete Androgen Insensitivity - see pictures]]
+- [[https://en.wikipedia.org/wiki/Sex_differences_in_human_physiology][Sex Differences In Human Physiology]]
+- [[https://en.wikipedia.org/wiki/Sex_differences_in_humans][Sex Differences In Humans]]
+- [[https://en.wikipedia.org/wiki/Body_shape][Human Body Shape]]
+- [[https://en.wikipedia.org/wiki/Female_body_shape][Female Human Body Shape]]
+- [[https://en.wikipedia.org/wiki/Body_image][Body Image]]
+- [[https://en.wikipedia.org/wiki/Body_dysmorphic_disorder][Body Dysmorphia]]
+
+- [[https://en.wikipedia.org/wiki/Sexualization][Sexualization]]
+- [[https://en.wikipedia.org/wiki/Sexual_objectification][Sexual Objectification]]
+- [[https://en.wikipedia.org/wiki/Nudity][Nudity]]
+- [[https://en.wikipedia.org/wiki/Gymnophobia][Gymnophobia - fear of Nudity]]
+
+**** Articles
+
+- [[https://www.bustle.com/wellness/poly-relationship-terms-metamour-nesting-partner][Bustle: The Meaning Behind 13 Common Poly Relationship Terms]]
+- [[https://www.lovingmorenonprofit.org/poly/hierarchy-in-polyamorous][Primary, Secondary: The Misunderstanding of Hierarchy in Polyamorous Relating]]
+
+ ** Videos
+
+*** TODO Relink these to their transcript files
+
+*** Misc Videos
+
+**** [[https://www.youtube.com/watch?v=kT0HJkr1jj4][Science Proves There are More than Two Human Sexes]]
+
+
+*** by Robert Sapolsky
+
+**** [[https://www.youtube.com/watch?v=8QScpDGqwsQ][Neurobiology of trans-sexuality]]
+**** [[https://www.youtube.com/watch?v=dGBYYcH7CS8][Transgender Neurobiology]]
+**** [[https://www.youtube.com/watch?v=-nsQDX_OHNE][Brain Gender]]
+**** [[https://www.youtube.com/watch?v=iE8lTApTxiY][Sexual Attractiveness]]
+**** [[https://www.youtube.com/watch?v=myx8bIy6-WY][Sexual Dimorphism]]
+**** [[https://www.youtube.com/watch?v=8a1-Eu7n0hs][Human Sexual Dimorphism]]
+**** [[https://www.youtube.com/watch?v=rIULZOLS4BM][neurobiology of Sexual Orientation & Identification]]
+****  [[https://www.youtube.com/watch?v=VbIGfKPVcXc][Early Life Experience and Sexuality]]
