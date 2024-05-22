@@ -1,6 +1,8 @@
-** Organizations
+* Sex and Gender Related Organizations
 
-*** [[https://www.lovingmorenonprofit.org][Loving More Nonprofit]]
+The header is usually a link to an Organization's Website
+
+** [[https://www.lovingmorenonprofit.org][Loving More Nonprofit]]
 #+begin_comment
 Website Issues:
 - Context: Using Firefox 125
@@ -32,6 +34,4 @@ Loveland, CO 80539
 #+end_example
 - Phone:: 970-MOR-LOVE     (970-667-5683)
 
-** Websites
-
-- [[https://genetic.org][The Association for X and Y Chromosome Variations]]
+** [[https://genetic.org][The Association for X and Y Chromosome Variations]]
