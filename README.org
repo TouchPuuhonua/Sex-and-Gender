@@ -3,10 +3,10 @@
 This is a [[https://github.com/GregDavidson/loel/blob/main/Devel/loel-lists.org][Resource Directory]] of the [[https://github.com/GregDavidson/loel#readme][League of Extraordinary Learners
 (LOEL)]].
 
-This repository intended as a repository for high-quality materials
-which people interested in the Biological, Psychological, Social and
-possibly other aspects of Sex and Gender may find useful in learning
-more about these subjects.
+This is a repository for high-quality materials in the Biological,
+Psychological, Social and possibly other aspects of Sex and Gender
+suitable for people interested in learning more about these subjects.
+We would love your assistance in accumulating more resources!
 
 In addition to links to informational media, there are outlines and
 design information for some workshops on the subject.
