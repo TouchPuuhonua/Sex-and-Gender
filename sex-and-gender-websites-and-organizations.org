@@ -1,7 +1,6 @@
+** Organizations
 
-** Websites
-
-- [[https://www.lovingmorenonprofit.org][Loving More Nonprofit]]
+*** [[https://www.lovingmorenonprofit.org][Loving More Nonprofit]]
 #+begin_comment
 Website Issues:
 - Context: Using Firefox 125
@@ -21,6 +20,7 @@ Website Suggestions:
   - Entry for Bisexual is weird
     - Only the second meaning is for a Bisexual Orientation
   - Nothing in the FAQ suggests any spectrum (Kinsey, etc.) or fluidity in Sexual Orientation
+#+end_comment
 
 Contact Information
 - Mailing Address:
@@ -31,7 +31,6 @@ PO Box 1658
 Loveland, CO 80539
 #+end_example
 - Phone:: 970-MOR-LOVE     (970-667-5683)
-#+end_comment
 
 ** Websites
 
