@@ -1,0 +1,38 @@
+
+** Websites
+
+- [[https://www.lovingmorenonprofit.org][Loving More Nonprofit]]
+#+begin_comment
+Website Issues:
+- Context: Using Firefox 125
+- No Search Area appears so Q button fails
+- Contact-Us
+  - doesn't provide a field for any message
+  - no email sent in response to registration
+  - phone number field doesn't accept dashes
+- Some FAQ links fail
+  - OK: https://www.lovingmorenonprofit.org/home/polyamory/faq/
+- NOT SO GOOD:
+    - https://www.lovingmorenonprofit.org/home/polyamory/faq-3/
+    - Empty Boxes appear instead of intended content
+Website Suggestions:
+- FAQ sexual orientation is weird
+  - Entry for Bisexual but no entries for Heterosexual or Homosexual
+  - Entry for Bisexual is weird
+    - Only the second meaning is for a Bisexual Orientation
+  - Nothing in the FAQ suggests any spectrum (Kinsey, etc.) or fluidity in Sexual Orientation
+
+Contact Information
+- Mailing Address:
+#+begin_example
+Loving More® Nonprofit
+a 501(c)(3) nonprofit organization
+PO Box 1658
+Loveland, CO 80539
+#+end_example
+- Phone:: 970-MOR-LOVE     (970-667-5683)
+#+end_comment
+
+** Websites
+
+- [[https://genetic.org][The Association for X and Y Chromosome Variations]]

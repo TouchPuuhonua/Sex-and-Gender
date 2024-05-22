@@ -1,0 +1,20 @@
+* ROADMAP for Sex & Gender Resource Directory
+
+** TODO Accumulate Resources
+- Curate
+- Organized
+
+** TODO Before our workshops
+
+Export to webpages
+- make sure they're attractive, accessible, etc.
+- associate with a good url
+
+** TODO Misc
+
+Fix master-->main branches!
+
+** Maybe Tasks
+
+Fold workshop materials into this Repository
+- turning it into a curriculum
