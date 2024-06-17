@@ -21,7 +21,11 @@
 
 ** Books
 
-Kate Bornstein – /My New Gender Workbook/
+- title :: My New Gender Workbook
+- author :: Kate Bornstein
+
+- title :: Why is Sex Fun?
+- author :: Jared Diamond
 
 ** Videos
 
